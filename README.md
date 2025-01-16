@@ -2,9 +2,8 @@
 
 The Agile Lab handbook is the central repository for how we run the company.
 
-Please make a merge request to suggest improvements or add clarifications. Please use issues to ask questions. For further details, please see the [Handbook Usage](https://handbook.agilelab.it/HandbookUsage.html) page.
+Please make a merge request to suggest improvements or add clarifications. Please use issues to ask questions. F
 
-The public gitbook site of the handbook is available [here](https://handbook.agilelab.it)
 
 # History of the handbook
 
