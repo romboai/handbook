@@ -2,8 +2,7 @@
 
 The Agile Lab handbook is the central repository for how we run the company.
 
-Please make a merge request to suggest improvements or add clarifications. Please use issues to ask questions. F
-
+Please make a merge request to suggest improvements or add clarifications. Please use issues to ask questions.
 
 # History of the handbook
 
