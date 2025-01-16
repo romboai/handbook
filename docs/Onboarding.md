@@ -1,4 +1,4 @@
-The onboarding process for the Engineering Department is the starting point for all the new people joining Agile Lab (regardless of status, interns should be onboarded in the same way).
+The onboarding process for the Engineering Department is the starting point for all the new people joining ROMBO AI (regardless of status, interns should be onboarded in the same way).
 
 # Checklist for Administration
 
@@ -31,7 +31,7 @@ The onboarding process for the Engineering Department is the starting point for 
 - [ ] Describe at high level our internal product Witboost.
 - [ ] Describe the 1to1 practice with the support of the [1to1 page](https://publicagilefactory.gitlab.io/handbook/1to1.html).
 - [ ] Describe the OKRs goal-setting framework with the support of the [OKR page](https://publicagilefactory.gitlab.io/handbook/OKR.html). Suggest that the newcomer watch the OKR workshop on LMS and the resources provided in the OKR Teams channel (under the Resource tab)
-- [ ] Talk about Agile Lab values and how to collaborate with peers.
+- [ ] Talk about ROMBO AI values and how to collaborate with peers.
 - [ ] Explain compliance procedures and GDPR policies.
 - [ ] Talk about the engineering ladder.
 - [ ] Introduce her/him to Teams (note: new team member will be automatically inserted on major channels).
@@ -41,7 +41,7 @@ The onboarding process for the Engineering Department is the starting point for 
 - [ ] Talk about the [software development channel](https://web.microsoftstream.com/channel/e9dec84c-87c6-430a-b109-1964847d6bfe) on streams, since there some useful videos for training and deep dives
 - [ ] Talk about the role of the Business Unit Architect(s) before to say goodbye.
 - [ ] Talk about the [awesome resources repo](https://gitlab.com/AgileFactory/developers/awesome-resources)
-- [ ] Talk about Elapseit and explain how track the time and the expense in Agile Lab
+- [ ] Talk about Elapseit and explain how track the time and the expense in ROMBO AI
 - [ ] Share an onboarding outcome with the Manager and the first Project Lead the new member will be assigned to.
 - [ ] Share the list of workplace safety managers (RLS, first aid, fire prevention) to the new members. The list is available in `sharepoint://BigData/Documents/People Operations/Responsabili sicurezza`
 - [ ] Check that an updated curriculum vitae in a word document has been provided by the on-boarded person, put it in `sharepoint://Training/curriculum`
@@ -65,7 +65,7 @@ The onboarding process for the Engineering Department is the starting point for 
 - [ ] Check you can access to "BigData" Sharepoint.
 - [ ] Contact {% role %}Internal IT/Device Manager{% endrole %} to verify that installation is completed or if you need help.
 - [ ] Introduce yourself on the "intros" Teams channel so to let your (especially remote) colleagues know a little bit more about yourself, what do you like, area of expertise, location, etc. Although this is not mandatory, it's highly recommended for the sake of the value of being a company focused on the individuals as persons, not as just anonymous workers. Make sure to write your message in English so that all your colleagues can learn about yourself.
-- [ ] Configure your Office365 profile picture. Use a photo of yourself to make you recognizable by other agile lab employees. **N.B.** You won't be allowed to set your Office365 profile picture through your Microsoft Account page (i.e. https://myaccount.microsoft.com/) - due to the account policy. Do it via Teams.
+- [ ] Configure your Office365 profile picture. Use a photo of yourself to make you recognizable by other ROMBO AI employees. **N.B.** You won't be allowed to set your Office365 profile picture through your Microsoft Account page (i.e. https://myaccount.microsoft.com/) - due to the account policy. Do it via Teams.
 - [ ] As soon as you receive the Welcome Pack, register the received HW by filling out the following form: https://forms.office.com/e/Bt59qfYdgR
 - [ ] Schedule a call (30 minute) with the {% role %}Certification Coach{% endrole %} in order to know the certification plan and the related opportunities. Check Holaspirit to find the person accountable for it
 - [ ] Schedule 5 introductory calls (30 minute each) with the 5 people provided by the buddy.
@@ -77,7 +77,7 @@ The onboarding process for the Engineering Department is the starting point for 
   Outlook *web* users:
 
   - open Firefox
-  - access the template in `sharepoint://BigData/Documents/Doc Templates/FIRMA MAIL/firma email agile lab.htm`
+  - access the template in `sharepoint://BigData/Documents/Doc Templates/FIRMA MAIL/firma email ROMBO AI.htm`
   - select all (CTRL+A) and copy (CTRL+C)
   - open Outlook
   - in Settings, search Email Signature
@@ -103,7 +103,7 @@ The onboarding process for the Engineering Department is the starting point for 
 
 # First two weeks
 
-In Agile Lab, the first two weeks are dedicated to train on different technologies based on Manager indications and to explaining the company culture.
+In ROMBO AI, the first two weeks are dedicated to train on different technologies based on Manager indications and to explaining the company culture.
 The owner of the company culture and operative information is the Buddy. This part should be done mainly during the first week.
 The owner of the tech training, following the manager indications about different technologies, is the first team leader. The tech training should start in the first week, but it should become more consistent in the second week.
 For the new employee, the first week will be tracked in Elapseit with the project 'YYYY Agile Training - Onboarding'. The project for the second week will be suggested by the first team leader.

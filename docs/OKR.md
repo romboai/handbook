@@ -1,4 +1,4 @@
-By adopting the OKR methodology, Agile Lab goes beyond the well-known limits of most organizations which are based on a _command-and-control_ model.
+By adopting the OKR methodology, ROMBO AI goes beyond the well-known limits of most organizations which are based on a _command-and-control_ model.
 
 As a matter of fact, most of the traditional organizations deal with
 slow decision-making processes, difficulties in keeping a high level of innovation, and a lack of employees' commitment and ownership.

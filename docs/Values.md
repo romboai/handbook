@@ -7,7 +7,7 @@ We take inspiration from other companies and we continually adjust our values to
 
 # Collaboration
 
-Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice—in fact, you're expected to do so. Anyone can chime in on any subject, including people who don't work at Agile Lab. The person who's responsible for the work decides how to do it, but they should always take each suggestion seriously and try to respond and explain why it may or may not have been implemented.
+Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly, you can rely on others for help and advice—in fact, you're expected to do so. Anyone can chime in on any subject, including people who don't work at ROMBO AI. The person who's responsible for the work decides how to do it, but they should always take each suggestion seriously and try to respond and explain why it may or may not have been implemented.
 
 **Kindness**
 
@@ -15,7 +15,7 @@ We value caring for others. Demonstrating we care for people provides an effecti
 
 **Share**
 
-There are aspects of Agile Lab culture, such as extreme transparency, that are unintuitive to outsiders and new team members. Be willing to invest in people and engage in open dialogue. For example, consider making private issues public wherever possible so that we can all learn from the experience.
+There are aspects of ROMBO AI culture, such as extreme transparency, that are unintuitive to outsiders and new team members. Be willing to invest in people and engage in open dialogue. For example, consider making private issues public wherever possible so that we can all learn from the experience.
 
 **Negative is 1-1**
 
@@ -70,11 +70,11 @@ Investigate mistakes in a way that focuses on the situational aspects of a failu
 
 **Short toes**
 
-People joining the company frequently say, "I don't want to step on anyone's toes." At Agile Lab we should be more accepting of people taking initiative in trying to improve things. As companies grow their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.
+People joining the company frequently say, "I don't want to step on anyone's toes." At ROMBO AI we should be more accepting of people taking initiative in trying to improve things. As companies grow their speed of decision making goes down since there are more people involved. We should counteract that by having short toes and feel comfortable letting others contribute to our domain.
 
 **It's impossible to know everything**
 
-We know we must rely on others for the expertise they have that we don't. It's ok to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable. It is never too late to ask a question, and by doing so you can get the information you need to produce results and to strengthen your skills as well as Agile Lab as a whole. After your question is answered, please document the answer so that it can be shared.
+We know we must rely on others for the expertise they have that we don't. It's ok to admit you don't know something and to ask for help, even if doing so makes you feel vulnerable. It is never too late to ask a question, and by doing so you can get the information you need to produce results and to strengthen your skills as well as ROMBO AI as a whole. After your question is answered, please document the answer so that it can be shared.
 
 **Trust**
 
@@ -119,7 +119,7 @@ While we iterate with small changes, we strive for large, ambitious results.
 
 **Perseverance**
 
-Working at Agile Lab will expose you to situations of various levels of difficulty and complexity. This requires focus, and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.
+Working at ROMBO AI will expose you to situations of various levels of difficulty and complexity. This requires focus, and the ability to defer gratification. We value the ability to maintain focus and motivation when work is tough and asking for help when needed.
 
 **Bias for Action**
 
@@ -145,7 +145,7 @@ Use the simplest and most boring solution for a problem, and remember that “bo
 
 **Efficiency for the right group**
 
-Optimize solutions globally for the broader Agile Lab. Making a process efficient for one person or a small group may not be an efficient outcome for the whole Agile Lab. As an example, it may be best to choose a solution for making things slightly less handy for you to develop while making things massively more efficient for the customers.
+Optimize solutions globally for the broader ROMBO AI. Making a process efficient for one person or a small group may not be an efficient outcome for the whole ROMBO AI. As an example, it may be best to choose a solution for making things slightly less handy for you to develop while making things massively more efficient for the customers.
 
 **Be respectful of others' time**
 
@@ -179,13 +179,13 @@ We value constant improvement by iterating quickly, month after month. If a task
 
 **Building a safe community**
 
-Everyone has the right to feel safe when working for Agile Lab. We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any employees.
+Everyone has the right to feel safe when working for ROMBO AI. We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any employees.
 
 **Family and friends first, work second**
 
 Long lasting relationships are the rocks of life and come before work. 
 
-**Working in Agile Lab is not a marriage**
+**Working in ROMBO AI is not a marriage**
 
 We encourage a high level of friendship in the company that will survive when you will leave the company  
 
@@ -197,21 +197,21 @@ We recognize that unconscious bias is something that affects everyone and that t
 As a globally dispersed company, we have employees from many different backgrounds and cultures. That means it is important for each of us to use great judgment in being respectful and inclusive of our teammates. At the same time, we may sometimes not fully realize we have said or done something to offend someone. It is important that our teammates hold each other accountable and let them know if they have unintentionally or intentionally done something so they can learn and gain additional understanding of perspectives different from our own. It is also important that our teammates don't feel excluded or minimized by the words we use or the things we do. Thus, we all need to speak up when we see something that isn't respectful or inclusive
 
 # Diversity, Inclusion & Belonging
-Diversity, inclusion and belonging are fundamental to the success of Agile Lab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to build and institutionalize a culture that is inclusive and supports all team members equally in the process of achieving their professional goals. 
+Diversity, inclusion and belonging are fundamental to the success of ROMBO AI. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to build and institutionalize a culture that is inclusive and supports all team members equally in the process of achieving their professional goals. 
 We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. 
 ## Bias towards asynchronous communication
 Take initiative to operate asynchronously whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are structuring their day around pressing commitments at home or in their community.
 ## Understanding the impact of microaggressions
 Microaggressions are much more than merely rude or insensitive comments. They can wear people down by slowly chipping away their sense of belonging/safety/inclusion over time. What is a microaggression?
 “The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people.” - Derald W. Sue
-At Agile Lab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact.
+At ROMBO AI we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact.
 ## Culture fit is a bad excuse
 We don’t hire based on culture or select candidates because we’d like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a values fit, not a culture fit. We want cultural diversity instead of cultural conformity, such as a brogrammer atmosphere. Said differently: “culture add” > “culture fit” or “hire for culture contribution” since our mission is that everyone can contribute.
 ## Religion and politics at work
 We generally avoid discussing politics or religion in public forums because it is easy to alienate people that have a minority opinion. This doesn’t mean we never discuss these topics. Because we value diversity, inclusion and belonging, and want all team members to feel welcome and contribute equally, we encourage free discussion of operational decisions that can move us toward being a more inclusive company. 
 While it is acceptable for individuals to bring up politics and religion in social contexts such as coffee chats and real-life meetups with other coworkers (with the goal to understand and not judge), always be aware of potential sensitivities, exercise your best judgment, and make sure you stay within the boundaries of our Code of Business Conduct and Ethics.
 ## Building a safe community
-Do not make jokes or unfriendly remarks about characteristics of the people who make up Agile lab and how they identify. Everyone has the right to feel safe when working for Agile Lab and/or as a part of the Agile Lab community. We do not tolerate abuse, harassment, exclusion, discrimination, or retaliation by/of any community members, including our team members. You can always refuse to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
+Do not make jokes or unfriendly remarks about characteristics of the people who make up ROMBO AI and how they identify. Everyone has the right to feel safe when working for ROMBO AI and/or as a part of the ROMBO AI community. We do not tolerate abuse, harassment, exclusion, discrimination, or retaliation by/of any community members, including our team members. You can always refuse to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
 ## Unconscious bias
 We recognize that unconscious bias is something that affects everyone and that the effect it has on us as humans and our company is large. We are responsible for understanding our own implicit biases and helping others understand theirs. We are continuously working on getting better at this topic.
 
@@ -221,7 +221,7 @@ Something is better than nothing
 
 **Don't wait**
 
-Don’t wait. When you have something of value for Agile Lab goals, do/say it. Right now everything is fresh in your head and you have the motivation, inspiration is perishable. Don’t wait until you have a better version. 
+Don’t wait. When you have something of value for ROMBO AI goals, do/say it. Right now everything is fresh in your head and you have the motivation, inspiration is perishable. Don’t wait until you have a better version. 
 
 **Make a proposal**
 
