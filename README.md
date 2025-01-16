@@ -30,36 +30,36 @@ Having a "handbook first" mentality ensures there is no duplication; the handboo
 
 # Company
 
-[Values](docs/Values.md) 
-[OKR](docs/OKR.md) 
+*   [Values](docs/Values.md) 
+*   [OKR](docs/OKR.md) 
 
 # Operations
 
-[Operation Guidelines](docs/OperationsGuidelines.md)
-[Tools And Tips](docs/ToolsAndTips.md)
-[Onboarding -TBD](docs/Onboarding.md)
-[Criminal record](docs/CriminalRecord.md)
-[Welfare and Benefits -TBD](docs/WelfareAndBenefits.md)
-[Vacation Policies - TBD]
-[Office - TBD]
-[Overtime](docs/Overtime.md)
+*   [Operation Guidelines](docs/OperationsGuidelines.md)
+*   [Tools And Tips](docs/ToolsAndTips.md)
+*   [Onboarding -TBD](docs/Onboarding.md)
+*   [Criminal record](docs/CriminalRecord.md)
+*   [Welfare and Benefits -TBD](docs/WelfareAndBenefits.md)
+*   [Vacation Policies - TBD]
+*   [Office - TBD]
+*   [Overtime](docs/Overtime.md)
 
 
  # HR
 
- [Hiring]
+ *   [Hiring]
 
  # Engineering
 
- TBD Carmine
+ *   TBD Carmine
 
  # Marketing
 
-TBD
+*   TBD
 
  # Sales
 
-TBD
+*   TBD
 
 
 
