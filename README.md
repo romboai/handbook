@@ -37,29 +37,7 @@ Having a "handbook first" mentality ensures there is no duplication; the handboo
 
 *   [Operation Guidelines](docs/OperationsGuidelines.md)
 *   [Tools And Tips](docs/ToolsAndTips.md)
-*   [Onboarding] TBD
 *   [Criminal record](docs/CriminalRecord.md)
-*   [Welfare and Benefits -TBD]
-*   [Vacation Policies - TBD]
-*   [Office - TBD]
 *   [Overtime](docs/Overtime.md)
-
-
- # HR
-
- *   [Hiring]
-
- # Engineering
-
- *   TBD Carmine
-
- # Marketing
-
-*   TBD
-
- # Sales
-
-*   TBD
-
 
 
