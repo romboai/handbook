@@ -52,7 +52,7 @@ Having a "handbook first" mentality ensures there is no duplication; the handboo
 
  # Engineering
 
- *   TBD Carmine
+ *   [Developer Standard and Guidelines](docs/DeveloperStandards.md)
 
  # Marketing
 
