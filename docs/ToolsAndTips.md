@@ -44,8 +44,38 @@ Teams provides some shortcuts that allows you to switch between channels and dir
 ### Hide conversations with no unread activity
 With lots of channels and direct messages, Teams can become overwhelming. To help keep track of activity on Teams, and to simplify the interface, consider hiding conversations with no unread activity.
 
-### Browse Teams Channels
+# **Using Jethr as an Employee: App & Website Guide**
 
-TBD
+Jethr provides a seamless HR management experience for employees through both its **mobile app** and **web platform**, making it easy to manage essential HR tasks anytime, anywhere. Below is a breakdown of how to use Jethr effectively for key HR functions.
+
+## **1. Accessing Jethr**
+- **Website**: Log in via the company’s Jethr portal using your employee credentials.
+- **Mobile App**: Download the Jethr app on iOS or Android, sign in with your company email, and enable notifications for updates.
+
+## **2. Managing Payroll & Payments**
+- **Viewing Payroll**: Access your salary details under the **Payroll** section to view payslips, deductions, bonuses, and tax information.
+- **Payment Details**: Update your banking details and monitor salary disbursements in real-time.
+- **Bonuses & Incentives**: Check performance-based incentives and bonus payouts directly in the dashboard.
+
+## **3. Requesting & Communicating Holidays**
+- **Leave Requests**: Submit leave applications through the **Leave Management** section, selecting the leave type (vacation, sick leave, parental leave, etc.).
+- **Approval Status**: Track the approval process and receive notifications once HR or your manager approves/rejects the request.
+- **Company Holidays**: View a company-wide calendar to stay updated on public and organizational holidays.
+
+## **4. Attendance & Work Schedule**
+- **Clocking In & Out**: Use the app’s time-tracking feature to log work hours, whether working in-office or remotely.
+- **Shift Management**: Check assigned work shifts, swap shifts with colleagues (if allowed), and set reminders for upcoming workdays.
+
+## **5. HR Communication & Support**
+- **Messaging HR**: Use the built-in chat or ticketing system to raise HR-related queries about salary, benefits, or policies.
+- **Company Announcements**: Stay informed through notifications and messages from HR regarding policy changes, upcoming events, and deadlines.
+
+## **6. Expense Claims & Reimbursements**
+- **Submitting Expenses**: Upload receipts and expense reports directly via the app for fast reimbursement processing.
+- **Tracking Status**: Monitor the status of your reimbursement request and receive updates once approved and processed.
+
+## **7. Training & Development**
+- **Enroll in Courses**: Access learning materials and register for company-provided training sessions.
+- **Performance Feedback**: Receive and track feedback from managers and peers, helping you grow within the company.
 
 

@@ -39,5 +39,7 @@ Having a "handbook first" mentality ensures there is no duplication; the handboo
 *   [Tools And Tips](docs/ToolsAndTips.md)
 *   [Criminal record](docs/CriminalRecord.md)
 *   [Overtime](docs/Overtime.md)
+*   [Meetings](docs/Meetings.md)
+
 
 
