@@ -52,7 +52,17 @@ Having a "handbook first" mentality ensures there is no duplication; the handboo
 
  # Engineering
 
- *   [Developer Standard and Guidelines](docs/DeveloperStandards.md)
+# Engineering
+
+Welcome to the Engineering section of the ROMBO AI handbook. This serves as the overarching entry point for our technical principles, processes, and standards.
+
+
+- [Philosophy and Technologies](Philosophy_and_Technologies.md)
+- [Development Methodologies](Development_Methodologies.md)
+- [Version Control and Development Flow](Version_Control_and_Development_Flow.md)
+- [Code Standards and Guidelines](Code_Standards_and_Guidelines.md)
+- [Roles and Responsibilities](Roles_and_Responsibilities.md)
+- [Suggestions for Usage](Suggestions_for_Usage.md)
 
  # Marketing
 
