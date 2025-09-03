@@ -1,6 +1,6 @@
 # Criminal Record and Pending Charges certificates
 
-**Criminal Record** (*Casellario Giudiziale* in Italian) and **Pending Charges** (*Carichi Pendenti*) are two certificates that may be asked you by {% role %}Recruiting and Hiring/Recruiter{% endrole %}, especially if you are a new hire.
+**Criminal Record** (*Casellario Giudiziale* in Italian) and **Pending Charges** (*Carichi Pendenti*) are two certificates that may be asked you by tge Recruiter, especially if you are a new hire.
 
 Both certificates can be requested at [this link](https://certificaticasellario.giustizia.it/web/guest/prenotacertificato). The procedure is the following:  
 
